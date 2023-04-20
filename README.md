@@ -33,12 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/oTihL1x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Once in Microsoft Azure you want to search "Virtual Machines" & select to "create"
-- Fill in the requires fields only on the "Basics" section (remember your user name & password)
-Click “Review + create”
-Click “Create” when the VM has passed validation
-View newly created VM in Network Watcher
-Delete Resource Groups to minimize charges to free Azure credits
+In Microsoft Azure search "Resource Group" click on it and click create.
 </p>
 <br />
 
@@ -46,7 +41,7 @@ Delete Resource Groups to minimize charges to free Azure credits
 <img src="https://i.imgur.com/pOSnast.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a resource group and name it "os-Ticket". Then click "Review & Create" Then when the "validation passes" click "Create".
 </p>
 <br />
 
