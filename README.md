@@ -57,7 +57,7 @@ Create a resource group and name it "os-Ticket". Then click "Review & Create" Th
 <img src="https://i.imgur.com/e8YhMId.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Click on use a different account and log in using the account & pw you used on the "os-ticket" VM. After it connect successfully connect hit "yes". You should have a seperate window pop up loading a windows browser.
 </p>
 <br />
 
