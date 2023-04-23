@@ -81,7 +81,7 @@ On your computer (Not the VM) go to the control panel. You can do this by search
 <img src="https://i.imgur.com/1BLihg5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next were going to download the PHP 7.3.8 file & move all files to the PHP file we created in file explorer (Like in the image above).
+Next were going to download the PHP 7.3.8 file & move all files to the PHP file we created in file explorer (Like in the image above). we're still in our regualar windows computer instead of our VM. 
 </p>
 <br />
 
