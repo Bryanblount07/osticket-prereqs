@@ -113,7 +113,7 @@ Once open click on PHP Manager, click register new PHP Version, select the 3 dot
 <img src="https://i.imgur.com/0YSEVv0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-So now you want to go back to the google drive files and downlaod the os-ticet file. Open the os-ticket file & also open another file explorer to transfer the [upload] file from the os-Ticket folder into your c:\inetpub\wwwroot. Then rename the upload folder to os-Ticket. Then go back to the IIS manger and hit restart again.
+So now you want to go back to the google drive files and downlaod the os-ticet file. Open the os-ticket file & also open another file explorer to transfer the [upload] file from the os-Ticket folder into your c:\inetpub\wwwroot. Then rename the upload folder to "osTicket" [with no spaces] . Then go back to the IIS manager and hit restart again.
 </p>
 <br />
 
@@ -121,6 +121,6 @@ So now you want to go back to the google drive files and downlaod the os-ticet f
 <img src="https://i.imgur.com/haITxZH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Inside ISS Manager go to os-ticket -> sites -> os-Ticket. Then on the right side click browse*80
 </p>
 <br />
