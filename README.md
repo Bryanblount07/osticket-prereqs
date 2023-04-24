@@ -94,10 +94,18 @@ Download My SQL and run the install & at the end make sure the [lauch] is checke
 <br />
 
 <p>
-<img src="https://i.imgur.com/haITxZH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kMY3Q92.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In your VM go to your windows search bar [not your browser] then type in [IIS] right click and run as administrator.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/xykejUD" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once open click on PHP Manager, click register new PHP Version, select the 3 dots[...], find the PHP folder we created in our C: Drive & then select the PHP-cgi file and select ok.
 </p>
 <br />
 
