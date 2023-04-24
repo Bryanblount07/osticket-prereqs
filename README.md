@@ -62,7 +62,7 @@ Click on use a different account and log in using the account & pw you used on t
 <br />
 
 <p>
-<img src="https://i.imgur.com/hJvRQ6I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vvcRCjy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 On your computer (Not the VM) go to the control panel. You can do this by searching control panel in your windows. Click on programs. After that you should see option under programs & features. Select the one with the shield that say "Turn windows features on or off". Here you will find the feature thats in the photo above. 1) find "Internet Information Service" & click it so it drops down. 2) Find "World Wide Web" under the "Internet Information Services" drop down menu & select that to drop down more options. 3) Find CGI under "World Wide Web" and check it to turn the CGI on. Then click "OK". After this you'll need to download the neccessary files for the next steps. Here's a link: https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
