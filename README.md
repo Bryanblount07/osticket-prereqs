@@ -86,7 +86,7 @@ Next were going to download the PHP 7.3.8 file & move all files to the PHP file 
 <br />
 
 <p>
-<img src="https://imgur.com/c3B7zum" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c3B7zum.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download My SQL and run the install & at the end make sure the [lauch] is checked so its launched when done installing.It launch another intall and you want to click nect until then Click on [Standard Configuration]. Once you get to the point where you create a  password. Use Password1 for the password [or create your own]. You want to write this on your note pad to remember. hit next and exucute. should look like photo when done.
