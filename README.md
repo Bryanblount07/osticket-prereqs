@@ -102,7 +102,7 @@ In your VM go to your windows search bar [not your browser] then type in [IIS] r
 <br />
 
 <p>
-<img src="https://imgur.com/xykejUD" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YmmvaOb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once open click on PHP Manager, click register new PHP Version, select the 3 dots[...], find the PHP folder we created in our C: Drive & then select the PHP-cgi file and select ok.
