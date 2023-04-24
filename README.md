@@ -105,7 +105,15 @@ In your VM go to your windows search bar [not your browser] then type in [IIS] r
 <img src="https://i.imgur.com/YmmvaOb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once open click on PHP Manager, click register new PHP Version, select the 3 dots[...], find the PHP folder we created in our C: Drive & then select the PHP-cgi file and select ok.
+Once open click on PHP Manager, click register new PHP Version, select the 3 dots[...], find the PHP folder we created in our C: Drive & then select the PHP-cgi file and select ok. After that restart it. The restart is on the right side in the Manager Server.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/0YSEVv0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So now you want to go back to the google drive files and downlaod the os-ticet file. Open the os-ticket file & also open another file explorer to transfer the [upload] file from the os-Ticket folder into your c:\inetpub\wwwroot. Then rename the upload folder to os-Ticket. Then go back to the IIS manger and hit restart again.
 </p>
 <br />
 
