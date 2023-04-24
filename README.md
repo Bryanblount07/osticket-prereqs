@@ -70,7 +70,7 @@ On your computer (Not the VM) go to the control panel. You can do this by search
 <br />
 
 <p>
-<img src="https://i.imgur.com/Pgdl9dS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vvcRCjy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1.) You want to download the [PHP Mananger For IIS] & run the installation. Nothing special needs to be added. Just next everything & install. 2.) Download & install the [Rewrite Module]. This one is also straight forward & nothing extra needed to install. Just next and Finish. 3.) Next you need to create PHP in your "C: Drive" just like in the image above. Load your file explorer and click on C: Drive. Then right click, click new then folder & name it PHP. 
