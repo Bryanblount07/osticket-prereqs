@@ -126,7 +126,7 @@ Inside ISS Manager go to sites -> Default -> os-Ticket, Dobuble click PHP Manger
 <br />
 
 <p>
-<https://i.imgur.com/SgrNirI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SgrNirI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open your file explorer, go to your C: Drive, inetpub, wwwroot, include & find file ost-sampleconfig.php & change to ost-config.php. Then right click on that same file and go to properties, security, advance then disable inheritence. Click remove all inherited permissions from this project. Then click add permissions, click select principal. type everyone and click check names. Then give everyone full control. click ok, apply & then ok.
