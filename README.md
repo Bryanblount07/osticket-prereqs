@@ -49,7 +49,7 @@ Create a resource group and name it "os-Ticket". Then click "Review & Create" Th
 <img src="https://i.imgur.com/LeYGT0k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1) Click on your VM you named (os-ticket). 2) Make sure the resource group is the same name that you created in the resource group part. 3) Open up remote desktop in your windows machine from the search bar. 4) then you want to find your VM's public IP Address & copy it. 5) Paste the IP address you just copied to your remote desktop & hit connect. After it connect successfully connect hit "yes".
+1) Click on your VM you named (os-ticket). 2) Make sure the resource group is the same name that you created in the resource group part. 3) Open up remote desktop in your windows machine from the search bar of your computer. 4) then you want to go to your Virtual Machine & find your VM's public IP Address & copy it. 5) Paste the IP address you just copied, to your remote desktop & hit connect. After it connect successfully connect hit "yes".
 </p>
 <br />
 
