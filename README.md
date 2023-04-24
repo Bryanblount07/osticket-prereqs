@@ -129,7 +129,7 @@ Inside ISS Manager go to sites -> Default -> os-Ticket, Dobuble click PHP Manger
 <img src="https://i.imgur.com/xdzcqgB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open your file explorer, go to your C: Drive, inetpub, wwwroot, include & find file ost-sampleconfig.php & change to ost-config.php. Then right click on that same file and go to properties, security, advance then disable inheritence. Click remove all inherited permissions from this project. Then click add permissions, click select principal. type everyone and click check names. Then give everyone full control.
+Open your file explorer, go to your C: Drive, inetpub, wwwroot, include & find file ost-sampleconfig.php & change to ost-config.php. Then right click on that same file and go to properties, security, advance then disable inheritence. Click remove all inherited permissions from this project. Then click add permissions, click select principal. type everyone and click check names. Then give everyone full control. click ok, apply & then ok.
 </p>
 <br />
 
@@ -137,6 +137,6 @@ Open your file explorer, go to your C: Drive, inetpub, wwwroot, include & find f
 <img src="https://i.imgur.com/xdzcqgB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then click add permissions, click select principal. type everyone and click check names. 
+Move to your osTicket "in the browser" & click continue & fillout the fields and write them in notepad we'll need them later. Then install HeidiSQL in the install files in google drive. Click on everything and click launch. In Heidi click new and put Password1 for the password then click open.
 </p>
 <br />
