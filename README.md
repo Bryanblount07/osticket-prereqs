@@ -124,3 +124,19 @@ So now you want to go back to the google drive files and downlaod the os-ticet f
 Inside ISS Manager go to sites -> Default -> os-Ticket, Dobuble click PHP Manger, Click [Enable or disable an extension]. Enable : php_imap.dll, php_intl.dll, php_opcache.dll. Then refresh osTicket in your browser. The red X's should turn green & the bottom 2 should still be red.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/xdzcqgB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open your file explorer, go to your C: Drive, inetpub, wwwroot, include & find file ost-sampleconfig.php & change to ost-config.php. Then right click on that same file and go to properties, security, advance then disable inheritence. Click remove all inherited permissions from this project. Then click add permissions, click select principal. type everyone and click check names. Then give everyone full control.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/xdzcqgB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then click add permissions, click select principal. type everyone and click check names. 
+</p>
+<br />
