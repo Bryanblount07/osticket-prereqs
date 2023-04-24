@@ -121,6 +121,6 @@ So now you want to go back to the google drive files and downlaod the os-ticet f
 <img src="https://i.imgur.com/haITxZH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Inside ISS Manager go to os-ticket -> sites -> os-Ticket. Then on the right side click browse*80
+Inside ISS Manager go to sites -> Default -> os-Ticket, Dobuble click PHP Manger, Click [Enable or disable an extension]. Enable : php_imap.dll, php_intl.dll, php_opcache.dll. Then refresh osTicket in your browser.
 </p>
 <br />
