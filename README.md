@@ -166,7 +166,7 @@ In osTicket in the MySQL username put "root" and password is "Password1" or what
 <br />
 
 <p>
-<img src="https://i.imgur.com/jDUyOni.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5xrKcma.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to your c:\inetpub\wwwroot\osticket & delete setup folder. Then go to c:\inetpub\wwwroot\osticket\include\ost-config.php right click on file and got to properties, security, advance then go to everyone edit it and only check read and exucute & read. Click ok, then apply, then ok like the image.
