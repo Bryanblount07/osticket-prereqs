@@ -140,3 +140,19 @@ Open your file explorer, go to your C: Drive, inetpub, wwwroot, include & find f
 Move to your osTicket "in the browser" & click continue & fillout the fields and write them in notepad we'll need them later. Then install HeidiSQL in the install files in google drive. Click on everything and click launch. In Heidi click new and put Password1 for the password then click open.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/WpO640F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Move to your osTicket "in the browser" & click continue & fillout the fields and write them in notepad we'll need them later. Then install HeidiSQL in the install files in google drive. Click on everything and click launch. In Heidi click new and put Password1 for the password then click open.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/WpO640F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Move to your osTicket "in the browser" & click continue & fillout the fields and write them in notepad we'll need them later. Then install HeidiSQL in the install files in google drive. Click on everything and click launch. In Heidi click new and put Password1 for the password then click open.
+</p>
+<br />
