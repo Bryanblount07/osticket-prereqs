@@ -161,6 +161,6 @@ In osTicket in the MySQL username put "root" and password is "Password1" or what
 <img src="https://i.imgur.com/jDUyOni.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- Your osTicket should look like image above
+ Your osTicket should look like image above. Then go into your c:\inetpub\wwwroot\osticket\setup. delete the setup folder ONLY.
 </p>
 <br />
