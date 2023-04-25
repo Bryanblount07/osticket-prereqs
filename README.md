@@ -158,7 +158,7 @@ In osTicket in the MySQL username put "root" and password is "Password1" or what
 <br />
 
 <p>
-<img src="https://i.imgur.com/WpO640F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jDUyOni.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Your osTicket should look like image above
