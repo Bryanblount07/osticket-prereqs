@@ -153,6 +153,14 @@ In osTicket in the MySQL username put "root" and password is "Password1" or what
 <img src="https://i.imgur.com/WpO640F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In osTicket in the MySQL username put "root" and password is "Password1" or what ever you set yours to. Now we have to create a new database in HeidiSQL called osTicket. 1.) Right click Unammed 2.) Create new 3.) database. 4.) Name it osTicket and click ok
+ Go back to osTicket browser & go to the MYSQL Database & type in [osticket] put [root] for username & [Password1] or the password you created. Then click install.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/WpO640F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Your osTicket should look like image above
 </p>
 <br />
